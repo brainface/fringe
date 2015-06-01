@@ -1,0 +1,663 @@
+--------------------
+Sat Oct  7 09:10:09 2006:  *Bad argument 1 to explode()
+Expected: string Got: 0.
+Object: /obj/handlers/twiki at line 52
+Arguments were: (void)
+Locals were: none.
+
+
+(1) 'preload' in /secure/master in /secure/master/preload.c:28
+(2) 'CATCH' in /secure/master in /secure/master/preload.c:28
+(3) 'create' in /obj/handlers/twiki at line 28
+(4) 'do_check_changes' in /obj/handlers/twiki at line 169
+(5) 'find_changes' in /obj/handlers/twiki at line 109
+(6) 'find_changed_pages' in /obj/handlers/twiki at line 52
+--------------------
+Sat Oct  7 09:55:30 2006:  *Inherited file '/std/races/demonic' does not exist!
+Object: /std/race at line 151
+Arguments were: (void)
+Locals were: none.
+
+
+(1) 'preload' in /secure/master in /secure/master/preload.c:28
+(2) 'CATCH' in /secure/master in /secure/master/preload.c:28
+(3) 'create' in /std/race at line 151
+--------------------
+Sat Oct  7 09:55:30 2006:  **Denied read permission in restore_object().
+Object: /secure/master at line 364
+Arguments were: (void)
+Locals were: none.
+
+
+(1) 'preload' in /secure/master in /secure/master/preload.c:28
+(2) 'CATCH' in /secure/master in /secure/master/preload.c:28
+(3) 'create' in /d/admin/obj/inv_check at line 30
+(4) 'unguarded' in /secure/simul_efun (/secure/simul_efun/unguarded.c) at line 43
+(5) 'apply_unguarded' in /secure/master at line 364
+--------------------
+Sat Oct  7 09:55:30 2006:  *Bad argument 1 to explode()
+Expected: string Got: 0.
+Object: /obj/handlers/twiki at line 52
+Arguments were: (void)
+Locals were: none.
+
+
+(1) 'preload' in /secure/master in /secure/master/preload.c:28
+(2) 'CATCH' in /secure/master in /secure/master/preload.c:28
+(3) 'create' in /obj/handlers/twiki at line 28
+(4) 'do_check_changes' in /obj/handlers/twiki at line 169
+(5) 'find_changes' in /obj/handlers/twiki at line 109
+(6) 'find_changed_pages' in /obj/handlers/twiki at line 52
+--------------------
+Sat Oct  7 10:40:51 2006:  *Inherited file '/std/races/demonic' does not exist!
+Object: /std/race at line 151
+Arguments were: (void)
+Locals were: none.
+
+
+(1) 'preload' in /secure/master in /secure/master/preload.c:28
+(2) 'CATCH' in /secure/master in /secure/master/preload.c:28
+(3) 'create' in /std/race at line 151
+--------------------
+Sat Oct  7 10:40:51 2006:  **Denied read permission in restore_object().
+Object: /secure/master at line 364
+Arguments were: (void)
+Locals were: none.
+
+
+(1) 'preload' in /secure/master in /secure/master/preload.c:28
+(2) 'CATCH' in /secure/master in /secure/master/preload.c:28
+(3) 'create' in /d/admin/obj/inv_check at line 30
+(4) 'unguarded' in /secure/simul_efun (/secure/simul_efun/unguarded.c) at line 43
+(5) 'apply_unguarded' in /secure/master at line 364
+--------------------
+Sat Oct  7 10:40:51 2006:  *Bad argument 1 to explode()
+Expected: string Got: 0.
+Object: /obj/handlers/twiki at line 52
+Arguments were: (void)
+Locals were: none.
+
+
+(1) 'preload' in /secure/master in /secure/master/preload.c:28
+(2) 'CATCH' in /secure/master in /secure/master/preload.c:28
+(3) 'create' in /obj/handlers/twiki at line 28
+(4) 'do_check_changes' in /obj/handlers/twiki at line 169
+(5) 'find_changes' in /obj/handlers/twiki at line 109
+(6) 'find_changed_pages' in /obj/handlers/twiki at line 52
+--------------------
+Sat Oct  7 11:26:13 2006:  *Inherited file '/std/races/demonic' does not exist!
+Object: /std/race at line 151
+Arguments were: (void)
+Locals were: none.
+
+
+(1) 'preload' in /secure/master in /secure/master/preload.c:28
+(2) 'CATCH' in /secure/master in /secure/master/preload.c:28
+(3) 'create' in /std/race at line 151
+--------------------
+Sat Oct  7 11:26:13 2006:  **Denied read permission in restore_object().
+Object: /secure/master at line 364
+Arguments were: (void)
+Locals were: none.
+
+
+(1) 'preload' in /secure/master in /secure/master/preload.c:28
+(2) 'CATCH' in /secure/master in /secure/master/preload.c:28
+(3) 'create' in /d/admin/obj/inv_check at line 30
+(4) 'unguarded' in /secure/simul_efun (/secure/simul_efun/unguarded.c) at line 43
+(5) 'apply_unguarded' in /secure/master at line 364
+--------------------
+Sat Oct  7 11:26:13 2006:  *Bad argument 1 to explode()
+Expected: string Got: 0.
+Object: /obj/handlers/twiki at line 52
+Arguments were: (void)
+Locals were: none.
+
+
+(1) 'preload' in /secure/master in /secure/master/preload.c:28
+(2) 'CATCH' in /secure/master in /secure/master/preload.c:28
+(3) 'create' in /obj/handlers/twiki at line 28
+(4) 'do_check_changes' in /obj/handlers/twiki at line 169
+(5) 'find_changes' in /obj/handlers/twiki at line 109
+(6) 'find_changed_pages' in /obj/handlers/twiki at line 52
+--------------------
+Sat Oct  7 12:11:33 2006:  *Inherited file '/std/races/demonic' does not exist!
+Object: /std/race at line 151
+Arguments were: (void)
+Locals were: none.
+
+
+(1) 'preload' in /secure/master in /secure/master/preload.c:28
+(2) 'CATCH' in /secure/master in /secure/master/preload.c:28
+(3) 'create' in /std/race at line 151
+--------------------
+Sat Oct  7 12:11:33 2006:  **Denied read permission in restore_object().
+Object: /secure/master at line 364
+Arguments were: (void)
+Locals were: none.
+
+
+(1) 'preload' in /secure/master in /secure/master/preload.c:28
+(2) 'CATCH' in /secure/master in /secure/master/preload.c:28
+(3) 'create' in /d/admin/obj/inv_check at line 30
+(4) 'unguarded' in /secure/simul_efun (/secure/simul_efun/unguarded.c) at line 43
+(5) 'apply_unguarded' in /secure/master at line 364
+--------------------
+Sat Oct  7 12:11:33 2006:  *Bad argument 1 to explode()
+Expected: string Got: 0.
+Object: /obj/handlers/twiki at line 52
+Arguments were: (void)
+Locals were: none.
+
+
+(1) 'preload' in /secure/master in /secure/master/preload.c:28
+(2) 'CATCH' in /secure/master in /secure/master/preload.c:28
+(3) 'create' in /obj/handlers/twiki at line 28
+(4) 'do_check_changes' in /obj/handlers/twiki at line 169
+(5) 'find_changes' in /obj/handlers/twiki at line 109
+(6) 'find_changed_pages' in /obj/handlers/twiki at line 52
+--------------------
+Sat Oct  7 12:56:54 2006:  *Inherited file '/std/races/demonic' does not exist!
+Object: /std/race at line 151
+Arguments were: (void)
+Locals were: none.
+
+
+(1) 'preload' in /secure/master in /secure/master/preload.c:28
+(2) 'CATCH' in /secure/master in /secure/master/preload.c:28
+(3) 'create' in /std/race at line 151
+--------------------
+Sat Oct  7 12:56:54 2006:  **Denied read permission in restore_object().
+Object: /secure/master at line 364
+Arguments were: (void)
+Locals were: none.
+
+
+(1) 'preload' in /secure/master in /secure/master/preload.c:28
+(2) 'CATCH' in /secure/master in /secure/master/preload.c:28
+(3) 'create' in /d/admin/obj/inv_check at line 30
+(4) 'unguarded' in /secure/simul_efun (/secure/simul_efun/unguarded.c) at line 43
+(5) 'apply_unguarded' in /secure/master at line 364
+--------------------
+Sat Oct  7 12:56:54 2006:  *Bad argument 1 to explode()
+Expected: string Got: 0.
+Object: /obj/handlers/twiki at line 52
+Arguments were: (void)
+Locals were: none.
+
+
+(1) 'preload' in /secure/master in /secure/master/preload.c:28
+(2) 'CATCH' in /secure/master in /secure/master/preload.c:28
+(3) 'create' in /obj/handlers/twiki at line 28
+(4) 'do_check_changes' in /obj/handlers/twiki at line 169
+(5) 'find_changes' in /obj/handlers/twiki at line 109
+(6) 'find_changed_pages' in /obj/handlers/twiki at line 52
+--------------------
+Sat Oct  7 13:42:15 2006:  *Inherited file '/std/races/demonic' does not exist!
+Object: /std/race at line 151
+Arguments were: (void)
+Locals were: none.
+
+
+(1) 'preload' in /secure/master in /secure/master/preload.c:28
+(2) 'CATCH' in /secure/master in /secure/master/preload.c:28
+(3) 'create' in /std/race at line 151
+--------------------
+Sat Oct  7 13:42:15 2006:  **Denied read permission in restore_object().
+Object: /secure/master at line 364
+Arguments were: (void)
+Locals were: none.
+
+
+(1) 'preload' in /secure/master in /secure/master/preload.c:28
+(2) 'CATCH' in /secure/master in /secure/master/preload.c:28
+(3) 'create' in /d/admin/obj/inv_check at line 30
+(4) 'unguarded' in /secure/simul_efun (/secure/simul_efun/unguarded.c) at line 43
+(5) 'apply_unguarded' in /secure/master at line 364
+--------------------
+Sat Oct  7 13:42:15 2006:  *Bad argument 1 to explode()
+Expected: string Got: 0.
+Object: /obj/handlers/twiki at line 52
+Arguments were: (void)
+Locals were: none.
+
+
+(1) 'preload' in /secure/master in /secure/master/preload.c:28
+(2) 'CATCH' in /secure/master in /secure/master/preload.c:28
+(3) 'create' in /obj/handlers/twiki at line 28
+(4) 'do_check_changes' in /obj/handlers/twiki at line 169
+(5) 'find_changes' in /obj/handlers/twiki at line 109
+(6) 'find_changed_pages' in /obj/handlers/twiki at line 52
+--------------------
+Sat Oct  7 14:27:35 2006:  *Inherited file '/std/races/demonic' does not exist!
+Object: /std/race at line 151
+Arguments were: (void)
+Locals were: none.
+
+
+(1) 'preload' in /secure/master in /secure/master/preload.c:28
+(2) 'CATCH' in /secure/master in /secure/master/preload.c:28
+(3) 'create' in /std/race at line 151
+--------------------
+Sat Oct  7 14:27:35 2006:  **Denied read permission in restore_object().
+Object: /secure/master at line 364
+Arguments were: (void)
+Locals were: none.
+
+
+(1) 'preload' in /secure/master in /secure/master/preload.c:28
+(2) 'CATCH' in /secure/master in /secure/master/preload.c:28
+(3) 'create' in /d/admin/obj/inv_check at line 30
+(4) 'unguarded' in /secure/simul_efun (/secure/simul_efun/unguarded.c) at line 43
+(5) 'apply_unguarded' in /secure/master at line 364
+--------------------
+Sat Oct  7 14:27:35 2006:  *Bad argument 1 to explode()
+Expected: string Got: 0.
+Object: /obj/handlers/twiki at line 52
+Arguments were: (void)
+Locals were: none.
+
+
+(1) 'preload' in /secure/master in /secure/master/preload.c:28
+(2) 'CATCH' in /secure/master in /secure/master/preload.c:28
+(3) 'create' in /obj/handlers/twiki at line 28
+(4) 'do_check_changes' in /obj/handlers/twiki at line 169
+(5) 'find_changes' in /obj/handlers/twiki at line 109
+(6) 'find_changed_pages' in /obj/handlers/twiki at line 52
+--------------------
+Sat Oct  7 15:12:57 2006:  *Inherited file '/std/races/demonic' does not exist!
+Object: /std/race at line 151
+Arguments were: (void)
+Locals were: none.
+
+
+(1) 'preload' in /secure/master in /secure/master/preload.c:28
+(2) 'CATCH' in /secure/master in /secure/master/preload.c:28
+(3) 'create' in /std/race at line 151
+--------------------
+Sat Oct  7 15:12:57 2006:  **Denied read permission in restore_object().
+Object: /secure/master at line 364
+Arguments were: (void)
+Locals were: none.
+
+
+(1) 'preload' in /secure/master in /secure/master/preload.c:28
+(2) 'CATCH' in /secure/master in /secure/master/preload.c:28
+(3) 'create' in /d/admin/obj/inv_check at line 30
+(4) 'unguarded' in /secure/simul_efun (/secure/simul_efun/unguarded.c) at line 43
+(5) 'apply_unguarded' in /secure/master at line 364
+--------------------
+Sat Oct  7 15:12:57 2006:  *Bad argument 1 to explode()
+Expected: string Got: 0.
+Object: /obj/handlers/twiki at line 52
+Arguments were: (void)
+Locals were: none.
+
+
+(1) 'preload' in /secure/master in /secure/master/preload.c:28
+(2) 'CATCH' in /secure/master in /secure/master/preload.c:28
+(3) 'create' in /obj/handlers/twiki at line 28
+(4) 'do_check_changes' in /obj/handlers/twiki at line 169
+(5) 'find_changes' in /obj/handlers/twiki at line 109
+(6) 'find_changed_pages' in /obj/handlers/twiki at line 52
+--------------------
+Sat Oct  7 15:58:17 2006:  *Inherited file '/std/races/demonic' does not exist!
+Object: /std/race at line 151
+Arguments were: (void)
+Locals were: none.
+
+
+(1) 'preload' in /secure/master in /secure/master/preload.c:28
+(2) 'CATCH' in /secure/master in /secure/master/preload.c:28
+(3) 'create' in /std/race at line 151
+--------------------
+Sat Oct  7 15:58:17 2006:  **Denied read permission in restore_object().
+Object: /secure/master at line 364
+Arguments were: (void)
+Locals were: none.
+
+
+(1) 'preload' in /secure/master in /secure/master/preload.c:28
+(2) 'CATCH' in /secure/master in /secure/master/preload.c:28
+(3) 'create' in /d/admin/obj/inv_check at line 30
+(4) 'unguarded' in /secure/simul_efun (/secure/simul_efun/unguarded.c) at line 43
+(5) 'apply_unguarded' in /secure/master at line 364
+--------------------
+Sat Oct  7 15:58:17 2006:  *Bad argument 1 to explode()
+Expected: string Got: 0.
+Object: /obj/handlers/twiki at line 52
+Arguments were: (void)
+Locals were: none.
+
+
+(1) 'preload' in /secure/master in /secure/master/preload.c:28
+(2) 'CATCH' in /secure/master in /secure/master/preload.c:28
+(3) 'create' in /obj/handlers/twiki at line 28
+(4) 'do_check_changes' in /obj/handlers/twiki at line 169
+(5) 'find_changes' in /obj/handlers/twiki at line 109
+(6) 'find_changed_pages' in /obj/handlers/twiki at line 52
+--------------------
+Sat Oct  7 16:09:36 2006:  *Denied read permission in restore_object().
+Object: /obj/handlers/inherit/error_handler at line 26
+Arguments were: (void)
+Locals were: none.
+
+
+(1) '<fake>' in /global/player#5 (/<driver>) in /:0
+(2) 'continue_start_player' in /global/player#5 at line 534
+(3) 'create' in /obj/handlers/inherit/error_handler at line 26
+(4) 'unguarded' in /secure/simul_efun (/secure/simul_efun/unguarded.c) at line 43
+(5) 'apply_unguarded' in /secure/master at line 361
+(6) 'CATCH' in /secure/master at line 361
+(7) '<fake>' in /obj/handlers/inherit/error_handler (/<driver>) in /:0
+(8) '(: <code>() :)' in /obj/handlers/inherit/error_handler at line 26
+--------------------
+Sat Oct  7 16:19:02 2006:  *Inherited file '/std/outside' does not exist!
+Object: /obj/handlers/map at line 1046
+Arguments were: (void)
+Locals were: none.
+
+
+(1) '<fake>' in /obj/handlers/wander_handler (/<driver>) in /:0
+(2) 'do_move_after' in /obj/handlers/wander_handler at line 477
+(3) 'do_wander' in /obj/handlers/wander_handler at line 400
+(4) 'query_zones' in /obj/handlers/map at line 1046
+(5) 'CATCH' in /obj/handlers/map at line 1046
+--------------------
+Sat Oct  7 16:19:59 2006:  *Inherited file '/std/outside' does not exist!
+Object: /obj/handlers/map at line 1046
+Arguments were: (void)
+Locals were: none.
+
+
+(1) '<fake>' in /obj/handlers/wander_handler (/<driver>) in /:0
+(2) 'do_move_after' in /obj/handlers/wander_handler at line 477
+(3) 'do_wander' in /obj/handlers/wander_handler at line 400
+(4) 'query_zones' in /obj/handlers/map at line 1046
+(5) 'CATCH' in /obj/handlers/map at line 1046
+--------------------
+Sat Oct  7 16:33:26 2006:  *Inherited file '/std/outside' does not exist!
+Object: /obj/handlers/map at line 1046
+Arguments were: (void)
+Locals were: none.
+
+
+(1) '<fake>' in /obj/handlers/wander_handler (/<driver>) in /:0
+(2) 'do_move_after' in /obj/handlers/wander_handler at line 477
+(3) 'do_wander' in /obj/handlers/wander_handler at line 400
+(4) 'query_zones' in /obj/handlers/map at line 1046
+(5) 'CATCH' in /obj/handlers/map at line 1046
+--------------------
+Sat Oct  7 16:39:34 2006:  *Inherited file '/std/outside' does not exist!
+Object: /obj/handlers/map at line 1046
+Arguments were: (void)
+Locals were: none.
+
+
+(1) '<fake>' in /obj/handlers/wander_handler (/<driver>) in /:0
+(2) 'do_move_after' in /obj/handlers/wander_handler at line 477
+(3) 'do_wander' in /obj/handlers/wander_handler at line 400
+(4) 'query_zones' in /obj/handlers/map at line 1046
+(5) 'CATCH' in /obj/handlers/map at line 1046
+--------------------
+Sat Oct  7 16:41:11 2006:  *Inherited file '/std/outside' does not exist!
+Object: /obj/handlers/map at line 1046
+Arguments were: (void)
+Locals were: none.
+
+
+(1) '<fake>' in /obj/handlers/wander_handler (/<driver>) in /:0
+(2) 'do_move_after' in /obj/handlers/wander_handler at line 477
+(3) 'do_wander' in /obj/handlers/wander_handler at line 400
+(4) 'query_zones' in /obj/handlers/map at line 1046
+(5) 'CATCH' in /obj/handlers/map at line 1046
+--------------------
+Sat Oct  7 16:43:38 2006:  *Inherited file '/std/races/demonic' does not exist!
+Object: /std/race at line 151
+Arguments were: (void)
+Locals were: none.
+
+
+(1) 'preload' in /secure/master in /secure/master/preload.c:28
+(2) 'CATCH' in /secure/master in /secure/master/preload.c:28
+(3) 'create' in /std/race at line 151
+--------------------
+Sat Oct  7 16:43:38 2006:  **Denied read permission in restore_object().
+Object: /secure/master at line 364
+Arguments were: (void)
+Locals were: none.
+
+
+(1) 'preload' in /secure/master in /secure/master/preload.c:28
+(2) 'CATCH' in /secure/master in /secure/master/preload.c:28
+(3) 'create' in /d/admin/obj/inv_check at line 30
+(4) 'unguarded' in /secure/simul_efun (/secure/simul_efun/unguarded.c) at line 43
+(5) 'apply_unguarded' in /secure/master at line 364
+--------------------
+Sat Oct  7 16:43:38 2006:  *Bad argument 1 to explode()
+Expected: string Got: 0.
+Object: /obj/handlers/twiki at line 52
+Arguments were: (void)
+Locals were: none.
+
+
+(1) 'preload' in /secure/master in /secure/master/preload.c:28
+(2) 'CATCH' in /secure/master in /secure/master/preload.c:28
+(3) 'create' in /obj/handlers/twiki at line 28
+(4) 'do_check_changes' in /obj/handlers/twiki at line 169
+(5) 'find_changes' in /obj/handlers/twiki at line 109
+(6) 'find_changed_pages' in /obj/handlers/twiki at line 52
+--------------------
+Sat Oct  7 17:00:25 2006:  *Inherited file '/std/races/demonic' does not exist!
+Object: /std/race at line 151
+Arguments were: (void)
+Locals were: none.
+
+
+(1) 'preload' in /secure/master in /secure/master/preload.c:28
+(2) 'CATCH' in /secure/master in /secure/master/preload.c:28
+(3) 'create' in /std/race at line 151
+--------------------
+Sat Oct  7 17:00:25 2006:  **Denied read permission in restore_object().
+Object: /secure/master at line 364
+Arguments were: (void)
+Locals were: none.
+
+
+(1) 'preload' in /secure/master in /secure/master/preload.c:28
+(2) 'CATCH' in /secure/master in /secure/master/preload.c:28
+(3) 'create' in /d/admin/obj/inv_check at line 30
+(4) 'unguarded' in /secure/simul_efun (/secure/simul_efun/unguarded.c) at line 43
+(5) 'apply_unguarded' in /secure/master at line 364
+--------------------
+Sat Oct  7 17:00:25 2006:  *Bad argument 1 to explode()
+Expected: string Got: 0.
+Object: /obj/handlers/twiki at line 52
+Arguments were: (void)
+Locals were: none.
+
+
+(1) 'preload' in /secure/master in /secure/master/preload.c:28
+(2) 'CATCH' in /secure/master in /secure/master/preload.c:28
+(3) 'create' in /obj/handlers/twiki at line 28
+(4) 'do_check_changes' in /obj/handlers/twiki at line 169
+(5) 'find_changes' in /obj/handlers/twiki at line 109
+(6) 'find_changed_pages' in /obj/handlers/twiki at line 52
+--------------------
+Fri May 29 13:26:13 2015:  *Error in loading object '/std/races/dog'
+Object: /std/race at line 151
+Arguments were: (void)
+Locals were: none.
+
+
+(1) 'preload' in /secure/master in /secure/master/preload.c:28
+(2) 'CATCH' in /secure/master in /secure/master/preload.c:28
+(3) 'create' in /std/race at line 151
+--------------------
+Fri May 29 13:26:13 2015:  *Error in loading object '/obj/handlers/finderror_helper'
+Object: /obj/handlers/error_tracker (/std/dom/error_tracker_master.c) at line 272
+Arguments were: (void)
+Locals were: none.
+
+
+(1) 'preload' in /secure/master in /secure/master/preload.c:28
+(2) 'CATCH' in /secure/master in /secure/master/preload.c:28
+(3) 'create' in /obj/handlers/error_tracker at line 19
+(4) 'create' in /obj/handlers/error_tracker (/std/dom/error_tracker_master.c) at line 82
+(5) 'do_the_work' in /obj/handlers/error_tracker (/std/dom/error_tracker_master.c) at line 297
+(6) 'iterate' in /obj/handlers/error_tracker (/std/dom/error_tracker_master.c) at line 272
+--------------------
+Fri May 29 13:26:13 2015:  **Denied read permission in restore_object().
+Object: /secure/master at line 364
+Arguments were: (void)
+Locals were: none.
+
+
+(1) 'preload' in /secure/master in /secure/master/preload.c:28
+(2) 'CATCH' in /secure/master in /secure/master/preload.c:28
+(3) 'create' in /d/admin/obj/inv_check at line 30
+(4) 'unguarded' in /secure/simul_efun (/secure/simul_efun/unguarded.c) at line 43
+(5) 'apply_unguarded' in /secure/master at line 364
+--------------------
+Fri May 29 13:26:13 2015:  *Bad argument 1 to explode()
+Expected: string Got: 0.
+Object: /obj/handlers/twiki at line 52
+Arguments were: (void)
+Locals were: none.
+
+
+(1) 'preload' in /secure/master in /secure/master/preload.c:28
+(2) 'CATCH' in /secure/master in /secure/master/preload.c:28
+(3) 'create' in /obj/handlers/twiki at line 28
+(4) 'do_check_changes' in /obj/handlers/twiki at line 169
+(5) 'find_changes' in /obj/handlers/twiki at line 109
+(6) 'find_changed_pages' in /obj/handlers/twiki at line 52
+--------------------
+Fri May 29 13:26:21 2015:  *Error in loading object '/std/races/dog'
+Object: /std/race at line 151
+Arguments were: (void)
+Locals were: none.
+
+
+(1) 'preload' in /secure/master in /secure/master/preload.c:28
+(2) 'CATCH' in /secure/master in /secure/master/preload.c:28
+(3) 'create' in /std/race at line 151
+--------------------
+Fri May 29 13:26:21 2015:  **Denied read permission in restore_object().
+Object: /secure/master at line 364
+Arguments were: (void)
+Locals were: none.
+
+
+(1) 'preload' in /secure/master in /secure/master/preload.c:28
+(2) 'CATCH' in /secure/master in /secure/master/preload.c:28
+(3) 'create' in /d/admin/obj/inv_check at line 30
+(4) 'unguarded' in /secure/simul_efun (/secure/simul_efun/unguarded.c) at line 43
+(5) 'apply_unguarded' in /secure/master at line 364
+--------------------
+Fri May 29 13:26:21 2015:  *Bad argument 1 to explode()
+Expected: string Got: 0.
+Object: /obj/handlers/twiki at line 52
+Arguments were: (void)
+Locals were: none.
+
+
+(1) 'preload' in /secure/master in /secure/master/preload.c:28
+(2) 'CATCH' in /secure/master in /secure/master/preload.c:28
+(3) 'create' in /obj/handlers/twiki at line 28
+(4) 'do_check_changes' in /obj/handlers/twiki at line 169
+(5) 'find_changes' in /obj/handlers/twiki at line 109
+(6) 'find_changed_pages' in /obj/handlers/twiki at line 52
+--------------------
+Fri May 29 14:47:23 2015:  *Trying to put array in string
+Object: /obj/handlers/autodoc/autodoc_html at line 256
+Arguments were: (void)
+Locals were: none.
+
+
+(1) '<fake>' in /obj/handlers/autodoc/autodoc_handler (/<driver>) at line 0
+(2) '(: <code>() :)' in /obj/handlers/autodoc/autodoc_handler at line 322
+(3) 'create_index' in /obj/handlers/autodoc/autodoc_handler at line 472
+(4) 'CATCH' in /obj/handlers/autodoc/autodoc_handler at line 472
+(5) '<fake>' in /obj/handlers/autodoc/autodoc_handler (/<driver>) at line 0
+(6) '(: <code>($1, $2) :)' in /obj/handlers/autodoc/autodoc_handler at line 189
+(7) 'create_html_file' in /obj/handlers/autodoc/autodoc_handler at line 262
+(8) 'create_html_index_file' in /obj/handlers/autodoc/autodoc_html at line 256
+--------------------
+Sat May 30 13:01:56 2015:  *Inherited file '/std/races/demonic' does not exist!
+Object: /std/race at line 151
+Arguments were: (void)
+Locals were: none.
+
+
+(1) 'preload' in /secure/master in /secure/master/preload.c:28
+(2) 'CATCH' in /secure/master in /secure/master/preload.c:28
+(3) 'create' in /std/race at line 151
+--------------------
+Sat May 30 13:01:56 2015:  *Error in loading object '/global/psoul'
+Object: /secure/master in /secure/master/preload.c:28
+Arguments were: (void)
+Locals were: none.
+
+
+(1) 'preload' in /secure/master in /secure/master/preload.c:28
+(2) 'CATCH' in /secure/master in /secure/master/preload.c:28
+--------------------
+Sat May 30 13:01:56 2015:  *Error in loading object '/global/psoul'
+Object: /secure/master in /secure/master/preload.c:28
+Arguments were: (void)
+Locals were: none.
+
+
+(1) 'preload' in /secure/master in /secure/master/preload.c:28
+(2) 'CATCH' in /secure/master in /secure/master/preload.c:28
+--------------------
+Sat May 30 13:01:56 2015:  *Error in loading object '/global/psoul'
+Object: /secure/master in /secure/master/preload.c:28
+Arguments were: (void)
+Locals were: none.
+
+
+(1) 'preload' in /secure/master in /secure/master/preload.c:28
+(2) 'CATCH' in /secure/master in /secure/master/preload.c:28
+--------------------
+Sat May 30 13:01:56 2015:  **Denied read permission in restore_object().
+Object: /secure/master at line 364
+Arguments were: (void)
+Locals were: none.
+
+
+(1) 'preload' in /secure/master in /secure/master/preload.c:28
+(2) 'CATCH' in /secure/master in /secure/master/preload.c:28
+(3) 'create' in /d/admin/obj/inv_check at line 30
+(4) 'unguarded' in /secure/simul_efun (/secure/simul_efun/unguarded.c) at line 43
+(5) 'apply_unguarded' in /secure/master at line 364
+--------------------
+Sat May 30 13:01:56 2015:  *Bad argument 1 to explode()
+Expected: string Got: 0.
+Object: /obj/handlers/twiki at line 52
+Arguments were: (void)
+Locals were: none.
+
+
+(1) 'preload' in /secure/master in /secure/master/preload.c:28
+(2) 'CATCH' in /secure/master in /secure/master/preload.c:28
+(3) 'create' in /obj/handlers/twiki at line 28
+(4) 'do_check_changes' in /obj/handlers/twiki at line 169
+(5) 'find_changes' in /obj/handlers/twiki at line 109
+(6) 'find_changed_pages' in /obj/handlers/twiki at line 52
+--------------------
+Sat May 30 13:07:42 2015:  *Error in loading object '/global/psoul'
+Object: /secure/simul_efun (/secure/simul_efun/virtual.c) at line 25
+Arguments were: (void)
+Locals were: none.
+
+
+(1) '<fake>' in /secure/simul_efun (/<driver>) in /(fake):0
+(2) '(: <code>($1, $2, $3, $4) :)' in /secure/simul_efun (/secure/simul_efun/modified_efuns.c) at line 900
+(3) '<fake>' in /secure/login#2 (/<driver>) in /(fake):0
+(4) 'process_event' in /secure/login#2 at line 223
+(5) 'enter_state' in /secure/login#2 at line 280
+(6) 'new_player_login' in /secure/login#2 at line 1419
+(7) 'CATCH' in /secure/login#2 at line 1419
+(8) 'clone_object' in /secure/simul_efun (/secure/simul_efun/virtual.c) at line 25

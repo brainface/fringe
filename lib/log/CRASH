@@ -1,0 +1,21 @@
+
+Fri Oct  6 20:27:43 2006:
+current object: /secure/login#2 (cratylus)
+command giver: /secure/login#2 (cratylus)
+crash reason: Couldn't seek the swap file, error No space left on device, offset 43109.
+
+[cratylus]
+
+Fri May 29 13:26:17 2015:
+command given: 
+crash reason: Process interrupted
+[]
+
+Fri May 29 21:57:10 2015:
+command given: 
+crash reason: Process terminated
+[]
+
+Sat May 30 13:14:37 2015:
+crash reason: SIGINT: Process interrupted
+[]
